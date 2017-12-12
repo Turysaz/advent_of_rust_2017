@@ -1,4 +1,6 @@
-# advent_of_rust_2017
+# Advent of Rust 2017
+
+(Solutions for [AoC17](https://www.adventofcode.com/2017))
 
 I'm just learning to use Rust, so do not use any of this code as a reference or something.
 It's probably very bad.
